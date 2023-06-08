@@ -1,4 +1,4 @@
-package com.marinato.leads_meaning
+package com.marinato.leadsmeaning
 
 import org.junit.Test
 

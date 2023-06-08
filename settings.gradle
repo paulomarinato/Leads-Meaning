@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Leads_Meaning"
+rootProject.name = "Leads Meaning"
 include ':app'
