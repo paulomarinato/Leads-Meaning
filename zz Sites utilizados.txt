@@ -4,4 +4,8 @@ Download Biblioteca "navigation"
 https://developer.android.com/?hl=pt-br
 https://developer.android.com/jetpack?hl=pt-br		https://developer.android.com/jetpack/androidx/releases/navigation?hl=pt-br
 
-		
+
+
+Download NavHostFragment via XML
+
+https://developer.android.com/guide/navigation/navigation-getting-started?hl=pt-br#add-navhostfragment	
