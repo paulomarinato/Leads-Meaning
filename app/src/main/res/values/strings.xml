@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Leads Meaning</string>
+
+    <!--Cadastro-->
+    <string name="Nome">Nome</string>
+    <string name="Email">E-mail</string>
+    <string name="Salvar">Salvar</string>
+    <string name="Titulo">Titulo\n</string>
+
+
 </resources>
