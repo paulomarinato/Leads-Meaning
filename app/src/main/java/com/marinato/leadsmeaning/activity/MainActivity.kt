@@ -1,7 +1,8 @@
-package com.marinato.leadsmeaning
+package com.marinato.leadsmeaning.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.marinato.leadsmeaning.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
