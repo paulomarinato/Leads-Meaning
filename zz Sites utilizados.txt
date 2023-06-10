@@ -1,11 +1,14 @@
 
-Download Biblioteca "navigation"
+Acess Biblioteca "navigation"
 
 https://developer.android.com/?hl=pt-br
 https://developer.android.com/jetpack?hl=pt-br		https://developer.android.com/jetpack/androidx/releases/navigation?hl=pt-br
 
 
+Acess NavHostFragment via XML
 
-Download NavHostFragment via XML
+https://developer.android.com/guide/navigation/navigation-getting-started?hl=pt-br#add-navhostfragment
 
-https://developer.android.com/guide/navigation/navigation-getting-started?hl=pt-br#add-navhostfragment	
+
+Acesso Banco de Dados ROOM, SQlite
+https://developer.android.com/training/data-storage/room?hl=pt-br#kts

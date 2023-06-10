@@ -1,4 +1,4 @@
-package com.marinato.leadsmeaning.activity
+package com.marinato.leadsmeaning.main_activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
